@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/radek/Desktop/Vector-vs-List/src/LinkedList.h
+cstddef
+-
+initializer_list
+-
+stdexcept
+-
+boost/assert.hpp
+-
+
+/home/radek/Desktop/Vector-vs-List/src/Vector.h
+cstddef
+-
+initializer_list
+-
+stdexcept
+-
+
+/home/radek/Desktop/Vector-vs-List/src/main.cpp
+iostream
+-
+cstddef
+-
+cstdlib
+-
+string
+-
+Vector.h
+/home/radek/Desktop/Vector-vs-List/src/Vector.h
+LinkedList.h
+/home/radek/Desktop/Vector-vs-List/src/LinkedList.h
+

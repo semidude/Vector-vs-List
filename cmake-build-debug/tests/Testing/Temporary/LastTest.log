@@ -1,0 +1,21 @@
+Start testing: Dec 15 13:59 CET
+----------------------------------------------------------
+1/1 Testing: boostUnitTestsRun
+1/1 Test: boostUnitTestsRun
+Command: "/home/radek/Desktop/Vector-vs-List/cmake-build-debug/tests/aisdiLinearTests"
+Directory: /home/radek/Desktop/Vector-vs-List/cmake-build-debug/tests
+"boostUnitTestsRun" start time: Dec 15 13:59 CET
+Output:
+----------------------------------------------------------
+Running 512 test cases...
+
+*** No errors detected
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"boostUnitTestsRun" end time: Dec 15 13:59 CET
+"boostUnitTestsRun" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 15 13:59 CET

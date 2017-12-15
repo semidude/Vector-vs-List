@@ -1,0 +1,7 @@
+/home/radek/clion-2017.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/radek/Desktop/Vector-vs-List
+-- Boost version: 1.58.0
+-- Found the following Boost libraries:
+--   unit_test_framework
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/radek/Desktop/Vector-vs-List/cmake-build-debug
